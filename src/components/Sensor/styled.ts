@@ -22,7 +22,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   padding: 0 5em 0 5em;
-  @media (max-width: 900px) {
+  @media (max-width: var(--tablet)) {
     padding: 0;
   }
 `

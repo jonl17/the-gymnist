@@ -42,7 +42,7 @@ export const Nav = styled.div`
       padding: 0 var(--smallMargin) 0 var(--smallMargin);
     }
     @media (max-width: 600px) {
-      padding: 0 var(--mediumMargin) 0 var(--mediumMargin);
+      display: none;
     }
     
       svg {

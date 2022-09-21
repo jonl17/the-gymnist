@@ -5,6 +5,9 @@ export const GlobalStyles = createGlobalStyle`
     --smallMargin: 10px;
     --mediumMargin: 50px;
     --largeMargin: 100px;
+    --mobile: 600px;
+    --tablet: 900px;
+    --smallDesktop: 1200px;
   }
   * {
     font-family: Arial, Helvetica, sans-serif;
